@@ -1,0 +1,17 @@
+section
+{
+    border: 1px solid black;
+ margin: 900px;
+ margin-top: 900px;
+ margin-bottom: 900px;
+
+}
+
+article
+
+{
+width: 500px;
+border: 2px solid red;
+text-align: justify;
+margin: auto;
+}
